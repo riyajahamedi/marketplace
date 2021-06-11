@@ -1,0 +1,8 @@
+export const UPDATE_PRODUCTS = "UPDATE_PRODUCTS";
+export const UPDATE_PRODUCT = "UPDATE_PRODUCT";
+export const SHOW_NOTIFICATION = "SHOW_NOTIFICATION";
+export const INIT_FILTER = "INIT_FILTER";
+export const APPLY_FILTER = "APPLY_FILTER";
+export const INIT_SORT = "INIT_SORT";
+export const APPLY_SORT = "APPLY_SORT";
+export const APPLY_SEARCH = "APPLY_SEARCH";
