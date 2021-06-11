@@ -2,9 +2,13 @@
 
 This is simple MarketPlace application built with ReactJS + LokiJS + Bootstrap 4
 
-## Available Scripts
+## Run application
 
-In the project directory, you can run:
+In the project root directory, you can run:
+
+### `yarn install`
+
+Install all the dependencies
 
 ### `yarn start`
 
